@@ -1,0 +1,18 @@
+.font{
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 700;
+  
+}
+
+.font-heading{
+    font-family: "Montserrat";
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: xx-large;
+    
+  }
+
+  .color-submit{
+    background: #141E46;
+  }
